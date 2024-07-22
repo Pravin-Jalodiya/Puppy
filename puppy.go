@@ -5,5 +5,7 @@ func Bark() string {
 }
 
 func Barks() string {
-	return "WOOF WOOF CHANGED!"
+	return "WOOF WOOF WOOF WOOF!"
 }
+
+func Version() string { return "v2.0.0" }
