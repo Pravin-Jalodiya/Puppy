@@ -1,4 +1,4 @@
-module github.com/Pravin-Jalodiya/Puppy/v2
+module github.com/Pravin-Jalodiya/Puppy
 
 go 1.22.5
 
